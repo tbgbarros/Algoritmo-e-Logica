@@ -34,4 +34,21 @@ Algoritmo "soma"
 var
 num1,num2,resultado:real
 
+COMANDO ESCREVA
+COMANDO EXCREVAL ("tEXTO")
+
+COMANDO LEIA (NUM1)
+
+Programacao 
+
+escreval("Informe o primeiro numero")
+Leia(num1)
+escreval("Informe o segundo numero")
+Leia(num2)
+
+resultado := num1 + num2
+escreval("O resultado é", resultado)
+
+fimalgoritmo
+
 
