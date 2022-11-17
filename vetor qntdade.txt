@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main() {
+	int n;
+	//vetores
+	for(){		
+		cout << "Informe a quantidade de numero:\n";
+		cin >> n;
+		int num[n];
+		//num=
+		cout  << "A soma: " <<soma;
+}
+	
+	return 0;
+}
